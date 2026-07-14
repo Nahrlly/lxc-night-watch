@@ -1,0 +1,8 @@
+{
+  "name": "lxc-night-watch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "inspect": "node night-watch.mjs"
+  }
+}
